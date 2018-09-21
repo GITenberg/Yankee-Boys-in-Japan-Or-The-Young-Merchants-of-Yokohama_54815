@@ -1,0 +1,35 @@
+_repo: Yankee-Boys-in-Japan-Or-The-Young-Merchants-of-Yokohama_54815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Henry Harrison
+    birthdate: 1863
+    gutenberg_agent_id: '48056'
+    url: http://www.gutenberg.org/2009/agents/48056
+    wikipedia: http://www.gutenberg.org/ebooks/author/46954
+description: ''
+gutenberg_issued: '2017-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Description and travel -- Juvenile fiction'
+- !lcsh 'Merchants -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'National characteristics -- Juvenile fiction'
+- !lcsh 'Yokohama shi (Japan) -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Japan -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Revenge -- Juvenile fiction'
+- GITenberg
+title: Yankee Boys in Japan; Or, The Young Merchants of Yokohama
+url: http://www.gutenberg.org/ebooks/54815
